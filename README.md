@@ -8,7 +8,7 @@ Apart from my academic pursuits, I am also very enthusiastic about contributing 
 
 If you would like to connect with me, you can find me on [Instagram](https://www.instagram.com/adiityaxxz/) and [LinkedIn](https://www.linkedin.com/in/aditya-ranjan-bab618257/). I am always eager to network and learn from others in the industry.🏭
 
-- 🔭 I have well known of C++ , Python , Kubernetes and stuff.
+- 🔭 I have well known of C++ , Python , Kotlin and stuff.
 - 🌱 I’m currently learning Kubernetes 🕸️
 
 <!--
