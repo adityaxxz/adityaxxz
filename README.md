@@ -11,6 +11,11 @@
 
 ### If you would like to connect with me, you can find me on [Instagram](https://www.instagram.com/adiityaxxz/) and [LinkedIn](https://www.linkedin.com/in/aditya-ranjan-bab618257/). I am always eager to network and learn from others in the industry.🏭
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-ranjan-bab618257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-gera" height="30" width="40" /></a>
+<a href="https://instagram.com/adiityaxxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooojagera" height="30" width="40" /></a>
+  
 ---
 - 🔭 I have well known of C++ , Python , Kotlin and stuff.
 - 🌱 I’m currently learning Kubernetes 🕸️
