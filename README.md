@@ -9,7 +9,7 @@
 
 ### Apart from my academic pursuits, I am also very enthusiastic about contributing to open source projects and building my own community. I believe that collaboration and cooperation are the key to success in the world of technology.🧑‍💻
 
-### If you would like to connect with me, you can find me on [Instagram](https://www.instagram.com/adiityaxxz/) and [LinkedIn](https://www.linkedin.com/in/aditya-ranjan-bab618257/). I am always eager to network and learn from others in the industry.🏭
+### If you would like to connect with me , you can find me on Instagram , LinkedIn and twitter . I am always eager to network and learn from others in the industry.🏭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
