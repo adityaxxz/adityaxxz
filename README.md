@@ -1,5 +1,8 @@
-###  Hello World 🌍 , I'm Aditya 👋 
----
+<h1 align="center"> Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aditya </h1>
+<h3 align="center">
+  
+
+  
 `Software Engineer Undergrad ^_^`
 
 ### I am a software engineering wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
