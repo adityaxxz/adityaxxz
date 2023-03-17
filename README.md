@@ -5,7 +5,7 @@
   
 `Software Engineer Undergrad ^_^`
 
-### I am a software engineering wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
+### I am a software engineer wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
 
 ### Apart from my academic pursuits, I am also very enthusiastic about contributing to open source projects and building my own community. I believe that collaboration and cooperation are the key to success in the world of technology.🧑‍💻
 
