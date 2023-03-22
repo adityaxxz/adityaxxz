@@ -17,7 +17,6 @@
 <a href="https://instagram.com/adiityaxxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaranjan" height="34" width="40" /></a>
 <a href="https://twitter.com/adiityatwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaranjan" height="35" width="40" /></a> -->
 <p align="center" >
-	<a href="https://github.com/adityaxxz"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/aditya-ranjan-bab618257"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/adiityaxxz"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	
@@ -31,7 +30,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### PROFILE VIEWS 
+![VisitorCount](https://profile-counter.glitch.me/adityaxxz/count.svg)
 
 <!--
 **adityaxxz/adityaxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
