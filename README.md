@@ -1,9 +1,14 @@
-<h1 align="center"> Hello World 🌍 I'm Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1> 
-<h3 align="center">
+<!-- <h1 align="center"> Hello World 🌍 I'm Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>  -->
+<br/>
+<span> <img src="https://visitor-badge.laobi.icu/badge?page_id=adityaxxz" align="right" alt="visitors"/> </span>
+  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aditya Here!  </h1>
+  
+<br/>
+<!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
   
-`Software Engineer Undergrad ^_^`
+`Software Engineer Undergraduate (currently in my 1st year)`
 
 ### I am a software engineer wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
 
@@ -25,11 +30,13 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 #### - 🔭 I have well known of C++ , Python , Kotlin and stuff.
-#### - 🌱 I’m currently learning Kubernetes 🕸️
+#### - 🌱 I’m currently learning DevOps 🕸️
+#### - 🥅 2023 Goals : Contribute more to Open Source projects.
+#### - ⚡ Fun fact :  The first computer bug was actually a real bug. In 1947, a moth got stuck in a Harvard Mark II computer, causing it to malfunction.
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave)
+  ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave)
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### PROFILE VIEWS 
