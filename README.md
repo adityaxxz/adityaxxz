@@ -39,8 +39,8 @@
   ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave)
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### PROFILE VIEWS 
-![VisitorCount](https://profile-counter.glitch.me/adityaxxz/count.svg)
+<!-- ### PROFILE VIEWS 
+![VisitorCount](https://profile-counter.glitch.me/adityaxxz/count.svg) -->
 
 <!--
 **adityaxxz/adityaxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
