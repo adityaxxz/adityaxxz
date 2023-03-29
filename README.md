@@ -8,7 +8,7 @@
 <!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
   
-`Software Engineer Undergrad (currently in my 1st year)`
+`Software Engineer Undergrad (currently in my freshman year)`
 
 <!-- ### I am a software engineer wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
 
