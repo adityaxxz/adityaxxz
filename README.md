@@ -2,7 +2,7 @@
 </h1>  -->
 <br/>
 <span> <img src="https://visitor-badge.laobi.icu/badge?page_id=adityaxxz" align="right" alt="visitors"/> </span>
-  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aditya Here!  </h1>
+  <h1 style="strong">Howdy <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aditya Here!  </h1>
   
 <br/>
 <!-- <h3 align="center"> -->
