@@ -33,7 +33,7 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 #### - 🔭 I have well known of C++ , Python , Java and stuff.
-#### - 🌱 I’m currently learning DSA & DevOps 🕸️
+#### - 🌱 I’m currently learning Solidity & Web3
 #### - 🥅 2023 Goals : Contribute more to Open Source projects.
 #### - ⚡ Fun fact :  The first computer bug was actually a real bug. In 1947, a moth got stuck in a Harvard Mark II computer, causing it to malfunction.
   
