@@ -8,7 +8,7 @@
 <!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
   
-`Software Engineer Undergrad (currently in my freshman year)`
+`Computer Science Undergrad `
 
 <!-- ### I am a software engineer wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
 
@@ -32,10 +32,7 @@
 
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-#### - 🔭 I have well known of C++ , Python , Java and stuff.
-#### - 🌱 I’m currently learning Solidity & Web3
-#### - 🥅 2023 Goals : Contribute more to Open Source projects.
-#### - ⚡ Fun fact :  The first computer bug was actually a real bug. In 1947, a moth got stuck in a Harvard Mark II computer, causing it to malfunction.
+#### Keeping DeFi Secure 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   ### 💻 Tech Stack:
