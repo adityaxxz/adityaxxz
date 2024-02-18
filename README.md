@@ -25,11 +25,11 @@
 <!-- <p align="left" >
 	<a href="https://www.linkedin.com/in/aditya-ranjan-bab618257"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/adiityaxxz"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a> -->
-	
+<!-- 	
 ### 🌐 Socials:
      [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiityaxxz)
 </p>
-
+-->
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 #### Keeping DeFi Secure 
