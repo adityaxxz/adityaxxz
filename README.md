@@ -8,13 +8,8 @@
 <!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 
-__Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi secure , With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
+__Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi secure. With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
 
-<!-- ### I am a software engineer wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
-
-### Apart from my academic pursuits, I am also very enthusiastic about contributing to open source projects and building my own community. I believe that collaboration and cooperation are the key to success in the world of technology.🧑‍💻
-
-### If you would like to connect with me , you can find me on Instagram , LinkedIn and twitter . I am always eager to network and learn from others in the industry.🏭 -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 <!-- <h3 align="left">🌐Connect w/ me:</h3> -->
 <!-- <p align="left">
@@ -80,7 +75,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=adityaxxz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaxxz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
