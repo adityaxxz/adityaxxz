@@ -7,7 +7,8 @@
 <br/>
 <!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
-*Independent Smart Contracts Security Researcher* dedicated into keeping DeFi secure , With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
+
+__Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi secure , With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
 
 <!-- ### I am a software engineer wannabe hailing from New Delhi, India. Currently, I am pursuing my Bachelor of Technology in Computer Science, and I am working hard to develop my skills as a developer. I believe in taking one step at a time and slowly building myself up to achieve my goals.⚽
 
