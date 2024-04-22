@@ -32,9 +32,9 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
 
 
  ## Tech Stacks & Skills 
-- Languages : Solidity & Rust
-- Tools : EVM & Foundry
-- Specialized skills : Breaking down EVM bytecode, can read/write assembly code(Yul)
+- Languages : **Solidity** & **Rust**
+- Tools : **EVM** & **Foundry**
+- Specialized skills : **Breaking down EVM bytecode, can *read/write* assembly code(Yul)**
 
 
  <!-- ### Tech Stack:
