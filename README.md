@@ -46,10 +46,18 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
  <!-- ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave) -->
 
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8) &nbsp; 
 
- ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=compact&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8)](https://github.com/anuraghazra/github-readme-stats) 
-
-
+<!-- Circular side by side stats -->
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8" />
+</a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true" />
+</a>
+-->
 
 <!-- ### PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/adityaxxz/count.svg) -->
