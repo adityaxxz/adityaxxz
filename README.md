@@ -90,3 +90,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
+
+
+|Audits | Findings | Vulnerabilities Count
+|--|--|--|
+|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L 
+|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L
+|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L
+
