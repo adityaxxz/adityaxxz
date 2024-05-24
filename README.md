@@ -46,7 +46,16 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
  <!-- ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave) -->
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true) &nbsp; &nbsp; &nbsp; ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&card_width=400) &nbsp; 
+|Audits | Findings | Vulnerabilities Count
+|--|--|--|
+|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L |
+|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L |
+|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | 
+
+<!-- &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true)  -->
+
+<!--
+![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&card_width=400) &nbsp; -->
 
 <!-- Circular side by side stats -->
 <!--
@@ -92,9 +101,5 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
 
-|Audits | Findings | Vulnerabilities Count
-|--|--|--|
-|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L 
-|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L
-|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L
+
 
