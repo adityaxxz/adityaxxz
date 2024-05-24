@@ -51,6 +51,7 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
 |Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L |
 |Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L |
 |Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | 
+|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L |
 
 <!-- &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true)  -->
 
