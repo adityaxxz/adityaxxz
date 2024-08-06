@@ -41,17 +41,19 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
+ <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
+---
  <!-- ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave) -->
 
   
-|Audits | Findings | Vulnerabilities Count
-|--|--|--|
-|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L |
-|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L |
-|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | 
-|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L |
+|Audits | Findings | Vulnerabilities Count | Description
+|--|--|--|--|
+|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L | A Bridging protocol to move tokens from L1 to L2
+|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L | A flash loan protocol based on Aave and Compound
+|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | Protocol allows users to deposit certain ERC20s into an ERC4626 vault
+|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L | A DEX protocol based on Uniswap v1
+
+
 
 <!-- &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true)  -->
 
