@@ -50,7 +50,7 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
 |--|--|--|--|
 |Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L | A Bridging protocol to move tokens from L1 to L2
 |Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L | A flash loan protocol based on Aave and Compound
-|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | Protocol allows users to deposit certain ERC20s into an ERC4626 vault
+|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | Allows users to deposit certain ERC20s into an ERC4626 vault
 |T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L | A DEX protocol based on Uniswap v1
 
 
