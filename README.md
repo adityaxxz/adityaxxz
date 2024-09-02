@@ -46,12 +46,12 @@ __Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi 
  <!-- ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave) -->
 
   
-|Audits | Findings | Vulnerabilities Count | Description
-|--|--|--|--|
-|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L | A Bridging protocol to move tokens from L1 to L2
-|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L | A flash loan protocol based on Aave and Compound
-|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L | Allows users to deposit certain ERC20s into an ERC4626 vault
-|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L | A DEX protocol based on Uniswap v1
+|Audits | Findings | Vulnerabilities Count
+|--|--|--|
+|Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L | 
+|Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L | 
+|Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L |
+|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L |
 
 
 
