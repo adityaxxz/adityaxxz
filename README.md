@@ -8,7 +8,7 @@
 <!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 
-__Independent Smart Contracts Security Researcher__ dedicated into keeping DeFi secure. With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
+__Independent Smart Contracts Security Researcher & Developer__ dedicated into keeping DeFi secure. With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 <!-- <h3 align="left">🌐Connect w/ me:</h3> -->
