@@ -32,8 +32,8 @@ __Independent Smart Contracts Security Researcher & Developer__ dedicated into k
 
 
  ## Tech Stacks & Skills 
-- Languages : **Solidity** & **Rust**
-- Tools : **EVM** & **Foundry**
+- Languages : **Python**, **C++**, **JavaScript**, **Solidity**, **Rust**
+- Tools : **Django**, **PostgreSQL**, **SQLite DB**, **React**, **Node**, **AWS EC2**, **S3**, **NoSQL**, **Git**, **Docker**, **EVM**.
 - Specialized skills : **Breaking down EVM bytecode, can read/write assembly code(Yul & Huff)**
 
 
@@ -42,17 +42,17 @@ __Independent Smart Contracts Security Researcher & Developer__ dedicated into k
 
 
  <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
----
+
  <!-- ![adityaxxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaxxz&show_icons=true&theme=synthwave) -->
 
-  
+ <!--
 |Audits | Findings | Vulnerabilities Count
 |--|--|--|
 |Boss-Bridge-Audit | [Link](https://github.com/adityaxxz/Boss-Bridge-Audit/blob/main/audit-data/findings.md) | 5H , 1M , 1L | 
 |Thunder-Loan-Audit | [Link](https://github.com/adityaxxz/ThunderLoan-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 3L | 
 |Vault-Guardian-Audit | [Link](https://github.com/adityaxxz/Vault-Guardian-Audit/blob/main/audit-data/findings.md) | 3H , 1M , 2L |
-|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L |
-
+|T-Swap-Audit | [Link](https://github.com/adityaxxz/TSwap-Audit/blob/main/audit-data/findings.md) | 4H , 2M , 2L |  
+-->
 
 
 <!-- &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxxz&layout=donut&align=right&title_color=2b213a&icon_color=2b213a&text_color=2b213a&bg_color=8e8cd8&text_bold=true)  -->
