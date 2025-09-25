@@ -8,7 +8,18 @@
 <!-- <h3 align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 
-__Independent Smart Contracts Security Researcher & Developer__ dedicated into keeping DeFi secure. With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment.
+
+__Backend Developer & Independent Security Researcher__,
+Building robust backend systems and secure decentralized applications. Skilled in designing RESTful APIs and scalable architectures. In Web3, I focus on smart contracts auditing to make blockchain safer and more reliable.
+
+ ## Tech Stacks & Skills 
+- Languages : **Python**, **C++**, **JavaScript**, **Solidity**, **Rust**, **Java**, **Kotlin**.
+- Frameworks & Tools : **Django**, **FastAPI**, **Node**, **PostgreSQL**, **MongoDB** , **SQLite**, **AWS EC2**, **S3**, **NoSQL**, **Git**, **Docker**, **EVM**.
+- Specialized skills : **Breaking down EVM bytecode, can read/write assembly code(Yul & Huff)**
+
+<!--
+__Independent Smart Contracts Security Researcher & Developer__ dedicated into keeping DeFi secure. With Solidity as my primary focus, my mission is to detect and eliminate vulnerabilities, promoting a more robust and secure blockchain environment. -->
+
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 <!-- <h3 align="left">🌐Connect w/ me:</h3> -->
@@ -31,10 +42,6 @@ __Independent Smart Contracts Security Researcher & Developer__ dedicated into k
  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 
 
- ## Tech Stacks & Skills 
-- Languages : **Python**, **C++**, **JavaScript**, **Solidity**, **Rust**
-- Tools : **Django**, **PostgreSQL**, **SQLite DB**, **React**, **Node**, **AWS EC2**, **S3**, **NoSQL**, **Git**, **Docker**, **EVM**.
-- Specialized skills : **Breaking down EVM bytecode, can read/write assembly code(Yul & Huff)**
 
 
  <!-- ### Tech Stack:
