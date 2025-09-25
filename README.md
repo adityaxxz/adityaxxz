@@ -10,7 +10,7 @@
 
 
 __Backend Developer & Independent Security Researcher__,
-Building robust backend systems and secure decentralized applications. Skilled in designing RESTful APIs and scalable architectures. In Web3, I focus on smart contracts auditing to make blockchain safer and more reliable.
+Building robust backend systems and secure decentralized applications. Skilled in designing RESTful APIs and scalable architectures. In Web3, I focus on smart contracts auditing to make blockchain safer & more reliable.
 
  ## Tech Stacks & Skills 
 - Languages : **Python**, **C++**, **JavaScript**, **Solidity**, **Rust**, **Java**, **Kotlin**.
