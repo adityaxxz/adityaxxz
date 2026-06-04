@@ -9,14 +9,21 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> -->
 
 
-__Backend Developer__,
-Building scalable backend systems and AI-driven applications with a focus on high-performance APIs, real-time architectures, and production-ready services. In AI and Web3, I work on multi-agent systems, LLM-powered workflows, and secure smart contract ecosystems to build reliable and intelligent software products.
+**Backend & AI Engineer**
 
- ## Tech Stacks & Skills 
-- Languages : **Python**, **C++ STL**, **JavaScript**, **Solidity**, **Rust**, **Java**, **Kotlin**.
-- Frameworks & Tools : **LangChain**, **LangGraph**, **Django**, **FastAPI**, **Nodejs**, **PostgreSQL**, **MongoDB** , **SQLite**, **AWS EC2**, **NoSQL**, **Git**, **Docker**.
-- Technical Skills : Backend Systems , AI Agent building, Restful APIs , Advanced Algorithms & Problem Solving , Data Structures ,
-Competitive Contests, Test writing , Machine Learning.
+Building scalable backend systems, AI-powered applications, and intelligent developer tools with a focus on high-performance APIs, real-time architectures, multi-agent workflows, and production-ready cloud deployments. Experienced in designing LLM-powered systems, retrieval-augmented generation (RAG) pipelines, authorization frameworks, and distributed backend services that scale reliably in production.
+
+## Tech Stack & Skills
+
+* **Languages:** Python, C++, TypeScript, SQL
+* **Backend & APIs:** FastAPI, Django, Node.js, REST APIs, WebSockets
+* **AI/ML:** LangChain, LangGraph, Agentic AI, RAG Systems, Vector Databases, LLM Applications, Prompt Engineering, Scikit-learn
+* **Databases & Cloud:** PostgreSQL, MongoDB, AWS, Docker
+* **Core CS:** Data Structures & Algorithms, Problem Solving, System Design, Database design, Backend testing
+* **Development Tools:** Git, Linux, CI/CD
+
+
+
 <!-- - Specialized skills : **Breaking down EVM bytecode, can read/write assembly code(Yul & Huff)** -->
 
 <!--
