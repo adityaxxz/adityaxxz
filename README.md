@@ -11,7 +11,9 @@
 
 **Backend & AI Engineer**
 
-Building scalable backend systems, AI-powered applications, and intelligent developer tools with a focus on high-performance APIs, real-time architectures, multi-agent workflows, and production-ready cloud deployments. Experienced in designing LLM-powered systems, retrieval-augmented generation (RAG) pipelines, authorization frameworks, and distributed backend services that scale reliably in production.
+Building scalable **backend systems** &  **AI-powered applications**. Focused on **high-performance APIs**, **real-time architectures**, **multi-agent workflows**, and production-ready cloud deployments.
+
+Experienced in designing **LLM-powered systems**, **retrieval-augmented** generation **(RAG) pipelines**, authorization frameworks, and distributed backend services that scale reliably in production.
 
 ## Tech Stack & Skills
 
