@@ -18,7 +18,7 @@ Experienced in designing **LLM-powered systems**, **retrieval-augmented** genera
 ## Tech Stack & Skills
 
 * **Languages:** Python, C++, TypeScript, SQL
-* **Backend & APIs:** FastAPI, Django, Node.js, REST APIs, WebSockets
+* **Backend & APIs:** FastAPI, Django, Next.js, Node.js, REST APIs, WebSockets
 * **AI/ML:** LangChain, LangGraph, Agentic AI, RAG Systems, Vector Databases, LLM Applications, Prompt Engineering, Scikit-learn
 * **Databases & Cloud:** PostgreSQL, MongoDB, AWS, Docker
 * **Core CS:** Data Structures & Algorithms, Problem Solving, System Design, Database design, Backend testing
